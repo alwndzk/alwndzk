@@ -3,7 +3,7 @@
 Perkenalkan nama saya **Alwan Dzaki Syaeffudin**.<br>
 
 *Saya seorang mahasiswa semester 5 di Universitas Gunadarma*.<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan cek [Linkedin]((https://www.linkedin.com/in/alwandzakisy12/))ku ya.
+Jika kamu tertarik untuk berkenalan denganku, silakan cek [Linkedin]([https://www.linkedin.com/in/alwandzakisy12/])ku ya.
 
 <p align="left">
 <a href="https://github.com/penuliscode">
