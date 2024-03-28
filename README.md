@@ -3,7 +3,7 @@
 Perkenalkan nama saya **Alwan Dzaki Syaeffudin**.<br>
 
 *Saya seorang mahasiswa semester 5 di Universitas Gunadarma*.<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan cek [Linkedin]([https://www.linkedin.com/in/alwandzakisy12/])ku ya.
+Jika kamu ingin berkenalan denganku, silakan cek [Linkedin](https://www.linkedin.com/in/alwandzakisy12/)ku ya.
 
 <p align="left">
 <a href="https://github.com/penuliscode">
@@ -11,3 +11,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan cek [Linkedin]([https://ww
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
+![Animasi ular]( https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg )
